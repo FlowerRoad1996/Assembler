@@ -1,0 +1,6 @@
+﻿  temp.cpp
+d:\vsprojects\assembler\test\temp.cpp(87): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+d:\vsprojects\assembler\test\temp.cpp(91): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+d:\vsprojects\assembler\test\temp.cpp(95): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Test.vcxproj -> D:\VSProjects\Assembler\Debug\Test.exe
+  Test.vcxproj -> D:\VSProjects\Assembler\Debug\Test.pdb (Full PDB)

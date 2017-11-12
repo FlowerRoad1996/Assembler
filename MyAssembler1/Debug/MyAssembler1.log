@@ -1,0 +1,11 @@
+﻿  readFile.cpp
+d:\vsprojects\assembler\myassembler1\readfile.cpp(110): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+d:\vsprojects\assembler\myassembler1\readfile.cpp(114): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+d:\vsprojects\assembler\myassembler1\readfile.cpp(118): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+d:\vsprojects\assembler\myassembler1\readfile.cpp(174): warning C4018: '<': signed/unsigned mismatch
+d:\vsprojects\assembler\myassembler1\readfile.cpp(225): warning C4018: '<': signed/unsigned mismatch
+d:\vsprojects\assembler\myassembler1\readfile.cpp(227): warning C4018: '<': signed/unsigned mismatch
+d:\vsprojects\assembler\myassembler1\readfile.cpp(261): warning C4018: '<': signed/unsigned mismatch
+d:\vsprojects\assembler\myassembler1\readfile.cpp(263): warning C4018: '<': signed/unsigned mismatch
+  MyAssembler1.vcxproj -> D:\VSProjects\Assembler\Debug\MyAssembler1.exe
+  MyAssembler1.vcxproj -> D:\VSProjects\Assembler\Debug\MyAssembler1.pdb (Full PDB)
